@@ -1,4 +1,4 @@
-# Website theme of a racing game with a name Ashpatl 9: Rejens.
+# Website theme of a racing game with a name Asphalt 9: Legends.
 
 ### The procedure :
 - I designed the initial visual concept and took some reference examples.
